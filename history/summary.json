@@ -22,35 +22,39 @@
     "url": "https://nc.deknoinarak.com/cron.php",
     "icon": "https://icons.duckduckgo.com/ip3/nc.deknoinarak.com.ico",
     "slug": "storage",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 13790,
-    "timeDay": 13790,
-    "timeWeek": 13790,
-    "timeMonth": 13790,
-    "timeYear": 13790,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.93%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 9233,
+    "timeDay": 9233,
+    "timeWeek": 9233,
+    "timeMonth": 9233,
+    "timeYear": 9233,
+    "dailyMinutesDown": {
+      "2025-05-18": 0
+    }
   },
   {
     "name": "Photos",
     "url": "https://immich.deknoinarak.com",
     "icon": "https://icons.duckduckgo.com/ip3/immich.deknoinarak.com.ico",
     "slug": "photos",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 864,
-    "timeDay": 864,
-    "timeWeek": 864,
-    "timeMonth": 864,
-    "timeYear": 864,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.94%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 617,
+    "timeDay": 617,
+    "timeWeek": 617,
+    "timeMonth": 617,
+    "timeYear": 617,
+    "dailyMinutesDown": {
+      "2025-05-18": 0
+    }
   }
 ]

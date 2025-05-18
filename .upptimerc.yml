@@ -6,7 +6,7 @@ sites:
   - name: Homepage
     url: https://www.deknoinarak.com
   - name: Storage
-    url: https://nc.deknoinarak.com
+    url: https://nc.deknoinarak.com/cron.php
   - name: Photos
     url: https://immich.deknoinarak.com
 

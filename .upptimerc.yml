@@ -5,6 +5,10 @@ repo: status # The name of this repository
 sites:
   - name: Homepage
     url: https://www.deknoinarak.com
+  - name: Storage
+    url: https://nc.deknoinarak.com
+  - name: Photos
+    url: https://immich.deknoinarak.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -12,7 +16,7 @@ status-website:
   cname: status.deknoinarak.com
   # baseUrl: /your-repo-name
   # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Deknoinarak Status
+  name: "Deknoinarak Status"
   introTitle: "Status for Deknoinarak Services"
   introMessage: Display status of all services under deknoinarak.com domain. [**Powered by Upptime**](https://github.com/upptime/upptime)
   navbar:

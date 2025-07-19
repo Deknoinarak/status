@@ -4,7 +4,7 @@
     "url": "https://www.deknoinarak.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.deknoinarak.com.ico",
     "slug": "homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 145,
     "timeMonth": 149,
     "timeYear": 148,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-19": 0
+    }
   },
   {
     "name": "Storage",
@@ -23,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/nc.deknoinarak.com.ico",
     "slug": "storage",
     "status": "up",
-    "uptime": "83.85%",
+    "uptime": "84.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "86.91%",
     "uptimeMonth": "96.99%",
-    "uptimeYear": "83.85%",
+    "uptimeYear": "84.02%",
     "time": 1475,
     "timeDay": 949,
     "timeWeek": 864,
@@ -54,11 +56,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/immich.deknoinarak.com.ico",
     "slug": "photos",
     "status": "up",
-    "uptime": "95.27%",
+    "uptime": "95.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "86.92%",
     "uptimeMonth": "96.99%",
-    "uptimeYear": "95.27%",
+    "uptimeYear": "95.32%",
     "time": 812,
     "timeDay": 858,
     "timeWeek": 670,

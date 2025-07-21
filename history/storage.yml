@@ -1,7 +1,7 @@
 url: https://nc.deknoinarak.com/cron.php
-status: up
-code: 200
-responseTime: 941
-lastUpdated: 2025-07-20T23:22:08.538Z
+status: down
+code: 530
+responseTime: 90
+lastUpdated: 2025-07-21T09:44:21.666Z
 startTime: 2025-05-18T14:35:04.320Z
 generator: Upptime <https://github.com/upptime/upptime>

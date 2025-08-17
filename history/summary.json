@@ -4,7 +4,7 @@
     "url": "https://www.deknoinarak.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.deknoinarak.com.ico",
     "slug": "homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 296,
     "timeYear": 197,
     "dailyMinutesDown": {
+      "2025-08-17": 0,
       "2025-07-19": 22
     }
   },
@@ -25,15 +26,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/nc.deknoinarak.com.ico",
     "slug": "storage",
     "status": "up",
-    "uptime": "83.49%",
-    "uptimeDay": "0.01%",
+    "uptime": "83.52%",
+    "uptimeDay": "13.93%",
     "uptimeWeek": "28.61%",
     "uptimeMonth": "83.22%",
-    "uptimeYear": "83.49%",
+    "uptimeYear": "83.52%",
     "time": 1377,
     "timeDay": 774,
     "timeWeek": 856,
-    "timeMonth": 1175,
+    "timeMonth": 1157,
     "timeYear": 1377,
     "dailyMinutesDown": {
       "2025-08-17": 936,
@@ -71,7 +72,7 @@
     "time": 816,
     "timeDay": 659,
     "timeWeek": 757,
-    "timeMonth": 832,
+    "timeMonth": 828,
     "timeYear": 816,
     "dailyMinutesDown": {
       "2025-08-17": 15,

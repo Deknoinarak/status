@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 193,
-    "timeDay": 230,
-    "timeWeek": 259,
-    "timeMonth": 251,
+    "time": 194,
+    "timeDay": 313,
+    "timeWeek": 294,
+    "timeMonth": 255,
     "timeYear": 202,
     "dailyMinutesDown": {
       "2025-08-17": 18,
@@ -38,16 +38,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/nc.deknoinarak.com.ico",
     "slug": "storage",
     "status": "down",
-    "uptime": "50.07%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.97%",
+    "uptime": "50.02%",
+    "uptimeDay": "63.34%",
+    "uptimeWeek": "94.76%",
     "uptimeMonth": "44.61%",
-    "uptimeYear": "43.94%",
-    "time": 1382,
-    "timeDay": 519,
-    "timeWeek": 3297,
-    "timeMonth": 2556,
-    "timeYear": 1365,
+    "uptimeYear": "43.84%",
+    "time": 1379,
+    "timeDay": 41,
+    "timeWeek": 660,
+    "timeMonth": 2416,
+    "timeYear": 1362,
     "dailyMinutesDown": {
       "2025-07-21": 154,
       "2025-08-17": 936,
@@ -268,7 +268,8 @@
       "2025-12-28": 1440,
       "2025-12-27": 813,
       "2026-07-12": 180,
-      "2026-07-19": 0
+      "2026-07-20": 176,
+      "2026-07-19": 351
     }
   },
   {
@@ -277,16 +278,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/immich.deknoinarak.com.ico",
     "slug": "photos",
     "status": "down",
-    "uptime": "52.58%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.97%",
+    "uptime": "52.54%",
+    "uptimeDay": "63.35%",
+    "uptimeWeek": "94.76%",
     "uptimeMonth": "44.61%",
-    "uptimeYear": "45.30%",
-    "time": 802,
-    "timeDay": 458,
-    "timeWeek": 678,
-    "timeMonth": 702,
-    "timeYear": 800,
+    "uptimeYear": "45.20%",
+    "time": 801,
+    "timeDay": 40,
+    "timeWeek": 582,
+    "timeMonth": 665,
+    "timeYear": 798,
     "dailyMinutesDown": {
       "2025-07-21": 154,
       "2025-08-17": 15,
@@ -504,7 +505,8 @@
       "2025-12-28": 1440,
       "2025-12-27": 813,
       "2026-07-12": 180,
-      "2026-07-19": 0
+      "2026-07-20": 176,
+      "2026-07-19": 351
     }
   }
 ]

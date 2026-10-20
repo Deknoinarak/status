@@ -12,7 +12,7 @@
     "uptimeYear": "99.98%",
     "time": 215,
     "timeDay": 274,
-    "timeWeek": 316,
+    "timeWeek": 317,
     "timeMonth": 274,
     "timeYear": 220,
     "dailyMinutesDown": {
@@ -27,14 +27,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/nc.deknoinarak.com.ico",
     "slug": "storage",
     "status": "up",
-    "uptime": "56.97%",
+    "uptime": "56.98%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "80.86%",
+    "uptimeWeek": "82.01%",
     "uptimeMonth": "87.51%",
     "uptimeYear": "42.73%",
     "time": 1401,
     "timeDay": 31700,
-    "timeWeek": 7219,
+    "timeWeek": 7732,
     "timeMonth": 2694,
     "timeYear": 813,
     "dailyMinutesDown": {
@@ -264,13 +264,13 @@
     "slug": "photos",
     "status": "up",
     "uptime": "59.04%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "80.79%",
-    "uptimeMonth": "87.49%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "82.01%",
+    "uptimeMonth": "87.51%",
     "uptimeYear": "42.73%",
     "time": 790,
     "timeDay": 753,
-    "timeWeek": 696,
+    "timeWeek": 769,
     "timeMonth": 774,
     "timeYear": 451,
     "dailyMinutesDown": {
@@ -490,8 +490,7 @@
       "2026-10-13": 1440,
       "2026-10-12": 1440,
       "2026-10-11": 1440,
-      "2026-10-10": 557,
-      "2026-10-20": 7
+      "2026-10-10": 557
     }
   }
 ]

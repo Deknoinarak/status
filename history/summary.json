@@ -29,7 +29,7 @@
     "status": "up",
     "uptime": "56.97%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "80.79%",
+    "uptimeWeek": "80.86%",
     "uptimeMonth": "87.51%",
     "uptimeYear": "42.73%",
     "time": 1401,
@@ -262,16 +262,16 @@
     "url": "https://immich.deknoinarak.com",
     "icon": "https://icons.duckduckgo.com/ip3/immich.deknoinarak.com.ico",
     "slug": "photos",
-    "status": "down",
+    "status": "up",
     "uptime": "59.04%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "99.48%",
     "uptimeWeek": "80.79%",
-    "uptimeMonth": "87.51%",
+    "uptimeMonth": "87.49%",
     "uptimeYear": "42.73%",
     "time": 790,
-    "timeDay": 820,
-    "timeWeek": 697,
-    "timeMonth": 777,
+    "timeDay": 753,
+    "timeWeek": 696,
+    "timeMonth": 774,
     "timeYear": 451,
     "dailyMinutesDown": {
       "2025-11-01": 920,
@@ -491,7 +491,7 @@
       "2026-10-12": 1440,
       "2026-10-11": 1440,
       "2026-10-10": 557,
-      "2026-10-20": 0
+      "2026-10-20": 7
     }
   }
 ]

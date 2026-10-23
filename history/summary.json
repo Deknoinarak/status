@@ -27,11 +27,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/nc.deknoinarak.com.ico",
     "slug": "storage",
     "status": "down",
-    "uptime": "57.02%",
+    "uptime": "56.99%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "82.27%",
-    "uptimeMonth": "83.43%",
-    "uptimeYear": "42.39%",
+    "uptimeWeek": "79.39%",
+    "uptimeMonth": "82.77%",
+    "uptimeYear": "42.34%",
     "time": 1401,
     "timeDay": 883,
     "timeWeek": 4797,
@@ -255,7 +255,7 @@
       "2026-10-12": 1440,
       "2026-10-11": 1440,
       "2026-10-10": 557,
-      "2026-10-23": 754,
+      "2026-10-23": 1044,
       "2026-10-22": 1034
     }
   },
@@ -264,17 +264,17 @@
     "url": "https://immich.deknoinarak.com",
     "icon": "https://icons.duckduckgo.com/ip3/immich.deknoinarak.com.ico",
     "slug": "photos",
-    "status": "down",
-    "uptime": "59.31%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "87.51%",
-    "uptimeYear": "42.73%",
-    "time": 787,
-    "timeDay": 505,
-    "timeWeek": 736,
-    "timeMonth": 713,
-    "timeYear": 451,
+    "status": "up",
+    "uptime": "59.28%",
+    "uptimeDay": "79.83%",
+    "uptimeWeek": "97.12%",
+    "uptimeMonth": "86.85%",
+    "uptimeYear": "42.67%",
+    "time": 793,
+    "timeDay": 1476,
+    "timeWeek": 1004,
+    "timeMonth": 791,
+    "timeYear": 458,
     "dailyMinutesDown": {
       "2025-11-01": 920,
       "2025-10-31": 1440,
@@ -493,7 +493,7 @@
       "2026-10-12": 1440,
       "2026-10-11": 1440,
       "2026-10-10": 557,
-      "2026-10-23": 0
+      "2026-10-23": 290
     }
   }
 ]
